@@ -1,4 +1,4 @@
-# Get Weather_DataSociety
+# Get Weather_DS
 
 This is a maven project to get weather information by using API from [NATIONAL WEATHER SERVICE](https://www.weather.gov/documentation/services-web-api)
 
