@@ -50,7 +50,7 @@ public class Send_HTTP_Request {
                     if(m.find()){
                         String lat = m.group(1);
                         String lon = m.group(3);
-                        
+
                         if(m.group(2).equals("S")){
                             lat = "-"+lat;
                         }
