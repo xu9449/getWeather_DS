@@ -27,7 +27,9 @@ Writes out the results to a local text file, in this format:
 72, 68, 70
 
 ## Demo
-
-![Input Image](https://github.com/xu9449/getWeather_DataSociety/blob/master/GetWeatherDemo/img/input.png)
-![Console log](https://github.com/xu9449/getWeather_DataSociety/blob/master/GetWeatherDemo/img/console.png)
+Input file:
+![Input Image](https://github.com/xu9449/getWeather_DataSociety/blob/master/GetWeatherDemo/img/input.png). 
+Console: 
+![Console log](https://github.com/xu9449/getWeather_DataSociety/blob/master/GetWeatherDemo/img/console.png). 
+Output file:
 ![Output Image](https://github.com/xu9449/getWeather_DataSociety/blob/master/GetWeatherDemo/img/output.png)
